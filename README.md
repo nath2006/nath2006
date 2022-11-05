@@ -4,7 +4,7 @@
 - 📫 You can reach me on [**_linkedin_**](https://www.linkedin.com/in/anathapindika-surja-putra-18632b204/)
 - 
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=nath2006&show_icons=true&theme=dark"/>
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=nath2006&show_icons=true&theme=merko"/>
       
 <img align="left" width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nath2006&layout=compact"/>
  
