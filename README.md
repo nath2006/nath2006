@@ -1,5 +1,5 @@
 # Hi there, I’m nath 👋
-- 📫 You can reach me on [**_linkedin_**](www.linkedin.com/in/anathapindika-surja-putra-18632b204)
+- 📫 You can reach me on [**_linkedin_**](https://www.linkedin.com/in/anathapindika-surja-putra-18632b204/)
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nath2006&show_icons=true&theme=radical"/>
       
