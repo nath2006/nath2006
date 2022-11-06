@@ -5,11 +5,21 @@
 
  <!---<h1 align="Center">Github Stats</h1> <br>--->
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nath2006&show_icons=true&theme=tokyonight"/>
-      
-<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nath2006&layout=compact&theme=tokyonight"/>
- 
+<div align="center">
 
+  ## Github Stats
+  <a href="https://github.com/nath2006">
+    <img align="center" alt="Rizki Aibar Github Stats" src="https://github-readme-stats.vercel.app/api?username=nath2006&show_icons=true&theme=tokyonight">
+  </a>
+</div>
+
+<div align="center">
+
+  ## Top Languages
+  <a href="https://github.com/nath2006">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nath2006&theme=tokyonight&layout=compact">
+  </a>
+</div>
 
 <!---
 - 💞️ I’m looking to collaborate on ...
