@@ -1,8 +1,8 @@
 # 🏄‍♂️ Hi there, I’m nath!
 <ul>
-  <li>👀 I’m interested in Mechine Learning and Cyber Security
-  <li>🌱 I’m currently learning React JS and Node jS
-  <li>📫 You can reach me on <a target="_blank" href="https://linkedin.com/in/anathapindika-surja-putra">LinkedIn</a>.</li>
+  <li> 👀 I’m interested in Mechine Learning and Cyber Security
+  <li> 🌱 I’m currently learning React JS and Node jS
+  <li> 📫 You can reach me on <a target="_blank" href="www.linkedin.com/in/anathapindika-surja-putra">LinkedIn</a>.</li>
 </ul>
 
 ##  🧰 Languages and Tools
