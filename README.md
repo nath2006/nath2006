@@ -1,13 +1,15 @@
-# Hi there, I’m nath 👋
-- 👀 I’m interested in Mechine Learning and Cyber Security
-- 🌱 I’m currently learning React JS and Node jS
-- 📫 You can reach me on [**_linkedin_**](https://www.linkedin.com/in/anathapindika-surja-putra-18632b204/) 
+# 👋 Hi there, I’m nath!
+<ul>
+  <li>👀 I’m interested in Mechine Learning and Cyber Security
+  <li>🌱 I’m currently learning React JS and Node jS
+  <li>📫 You can reach me on [**_linkedin_**](https://www.linkedin.com/in/anathapindika-surja-putra-18632b204/) 
+</ul>
 
- <!---<h1 align="Center">Github Stats</h1> <br>--->
+## Leanguague and Tools
 
 <div align="center">
 
-  ## Github Stats
+ ## Github Stats
   <a href="https://github.com/nath2006">
     <img align="center" alt="Rizki Aibar Github Stats" src="https://github-readme-stats.vercel.app/api?username=nath2006&show_icons=true&theme=tokyonight">
   </a>
