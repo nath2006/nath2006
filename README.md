@@ -23,7 +23,7 @@
 
  ## Github Stats
   <a href="https://github.com/nath2006">
-    <img align="center" alt="Rizki Aibar Github Stats" src="https://github-readme-stats.vercel.app/api?username=nath2006&show_icons=true&theme=tokyonight">
+    <img align="center" alt="nath Github Stats" src="https://github-readme-stats.vercel.app/api?username=nath2006&show_icons=true&theme=tokyonight">
   </a>
 </div>
 
