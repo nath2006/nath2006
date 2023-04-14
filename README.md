@@ -31,7 +31,7 @@
 
   ## Top Languages
   <a href="https://github.com/nath2006">
-    <img align="center" src="">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nath2006&theme=tokyonight&layout=compact">
   </a>
 </div>
 
